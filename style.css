@@ -117,4 +117,6 @@ footer{
   background-image: url(vangoghmuseum-d0250V1962r-3840-01.png);
   position: center;
   height: absolute;
+  background-repeat: no-repeat;
+  background-size: 1800px;
 }
