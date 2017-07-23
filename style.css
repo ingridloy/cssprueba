@@ -1,0 +1,125 @@
+
+h1{
+  font-size:80px;
+  letter-spacing: -2px;
+   margin: 2em auto;
+  margin-left: 35px;
+ font-family: Zona Pro;
+  margin-top:10px;
+    color: white
+  
+}
+h2{
+  font-size:40px;
+  font-family:Zona Pro;
+  font-style: light;
+  margin: 1em auto;
+ margin-top: -130px;
+  margin-left: 330px;
+   color: white
+}
+
+.summary{
+  margin-left: 300px;
+  margin-top: 140px;
+  background-color: rgba(0,0,0,0.5);
+  
+  color: rgb(225,225,225);
+  font-family: Zona Pro;
+  
+  padding: 1px;
+  
+}
+.section, #zen-intro{
+	background-image: url(http://cultura.unam.mx/arteenpantalla/imgs/portada-vincent-van-gogh.jpg);
+    background-position: absolute;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: 1200px; 
+    padding-top:50px;
+    padding-bottom:-20px;
+   padding-left: 70px;
+  
+}
+h3{
+  font-family:Zona Pro;
+  font-size: 25px;
+  color: #146575;
+  margin-left: 33%;
+  margin-top: 10%
+}
+p{
+  font-family:Helvetica;
+  font-size: 18px;
+  margin-left: 35%;
+  margin-right: 5%
+}
+.participation{
+ background-image: url("http://www.theepochtimes.com/news_images/highres/2006-6-16-turner.jpg");
+   background-position: absolute;
+    background-repeat: no-repeat;
+  
+}
+a{
+color: #276A70;
+}
+footer{
+  text-align: center;
+  font-family: Zona Pro;
+  font-size: 40px;
+  position: center;
+  
+  
+}
+h4{
+  text-align: center;
+  color:#276A70;
+}
+li{
+  
+   text-align: center;
+  
+}
+ul{
+   list-style: none;
+   text-align: center;
+}
+h5{
+  color:#276A70;
+ 
+    
+}
+.design-selection{
+ font-family:Zona Pro;
+  font-size:18px;
+  text-align:center;
+}
+.design-archives{
+  font-family:Zona Pro;
+  font-size:18px;
+  text-align:center;
+}
+.zen-resources{
+  font-family:Zona Pro;
+  font-size:18px;
+ text-align:center;
+}
+aside{
+  background-image: url("http://www.areasucia.com/wp-content/uploads/2012/02/5994208945_135fca435b_o.jpg");
+  position: center;
+  height: absolute; 
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  color: #276A70
+}
+footer{
+  margin-bottom: 10px;
+  
+} 
+.requirements {
+  background-image: url("https://plus.google.com/photos/photo/103341319658673649249/6446038906923128962?icm=false&authkey=COmd9rro4_ThGQ");
+  position: center;
+  height: absolute;
+}
