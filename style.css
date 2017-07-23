@@ -54,10 +54,11 @@ p{
   margin-left: 35%;
   margin-right: 5%
 }
-.participation{
- background-image: url("http://www.theepochtimes.com/news_images/highres/2006-6-16-turner.jpg");
+.preamble{
+ background-image: url(vangoghmuseum-d0250V1962r-3840-01.png);
    background-position: absolute;
     background-repeat: no-repeat;
+   position: center top;
   
 }
 a{
@@ -118,8 +119,4 @@ footer{
   margin-bottom: 10px;
   
 } 
-.requirements {
-  background-image: url(vangoghmuseum-d0250V1962r-3840-01.png);
-  position: center;
-  height: absolute;
-}
+
