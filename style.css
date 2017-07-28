@@ -1,7 +1,17 @@
 @font-face {
-  font-family: "Zona Pro";
-  src: url("font/ZonaPro-Bold.otf");
-  src: url("font/ZonaPro-Thin.otf");
+    font-family: 'zona_probold';
+    src: url('zonapro-bold-webfont.woff2') format('woff2'),
+         url('zonapro-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face {
+    font-family: 'zona_prothin';
+    src: url('zonapro-thin-webfont.woff2') format('woff2'),
+         url('zonapro-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 
@@ -10,14 +20,14 @@ h1{
   letter-spacing: -2px;
    margin: 2em auto;
   margin-left: 35px;
- font-family: 'ZonaPro-Bold';
+ font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
   margin-top:10px;
     color: white
   
 }
 h2{
   font-size:40px;
-  font-family:'ZonaPro-Bold.otf';
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
   font-style: light;
   margin: 1em auto;
  margin-top: -130px;
@@ -31,7 +41,7 @@ h2{
   background-color: rgba(0,0,0,0.5);
   
   color: rgb(225,225,225);
-  font-family: 'ZonaPro-Bold.otf';
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
   
   padding: 1px;
   
@@ -48,7 +58,7 @@ h2{
   
 }
 h3{
-  font-family:'ZonaPro-Bold.otf';
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
   font-size: 25px;
   color: #146575;
   margin-left: 22%;
@@ -66,7 +76,7 @@ color: #276A70;
 }
 footer{
   text-align: center;
-  font-family: 'ZonaPro-Bold.otf';
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
   font-size: 40px;
   position: center;
   
@@ -91,17 +101,17 @@ h5{
     
 }
 .design-selection{
- font-family: ZonaPro-Thin.otf;
+ font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
   font-size:18px;
   text-align:center;
 }
 .design-archives{
-  font-family:ZonaPro-Thin.otf;
+  font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
   font-size:18px;
   text-align:center;
 }
 .zen-resources{
-  font-family:ZonaPro-Thin.otf;
+  font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
   font-size:18px;
  text-align:center;
 }
