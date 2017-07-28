@@ -1,4 +1,8 @@
-@import url('https://www.myfonts.com/css?family=zona-pro+Text:400,400i,700');
+@font-face {
+  font-family: "Zona Pro";
+  src: url("font/ZonaPro-Bold.otf");
+  src: url("font/ZonaPro-Thin.otf");
+}
 
 
 h1{
@@ -6,14 +10,14 @@ h1{
   letter-spacing: -2px;
    margin: 2em auto;
   margin-left: 35px;
- font-family: Zona Pro;
+ font-family: 'ZonaPro-Bold.otf';
   margin-top:10px;
     color: white
   
 }
 h2{
   font-size:40px;
-  font-family:Zona Pro;
+  font-family:'ZonaPro-Bold.otf';
   font-style: light;
   margin: 1em auto;
  margin-top: -130px;
@@ -27,7 +31,7 @@ h2{
   background-color: rgba(0,0,0,0.5);
   
   color: rgb(225,225,225);
-  font-family: Zona Pro;
+  font-family: 'ZonaPro-Bold.otf';
   
   padding: 1px;
   
@@ -44,7 +48,7 @@ h2{
   
 }
 h3{
-  font-family:Zona Pro;
+  font-family:'ZonaPro-Bold.otf';
   font-size: 25px;
   color: #146575;
   margin-left: 22%;
@@ -62,7 +66,7 @@ color: #276A70;
 }
 footer{
   text-align: center;
-  font-family: Zona Pro;
+  font-family: 'ZonaPro-Bold.otf';
   font-size: 40px;
   position: center;
   
@@ -87,17 +91,17 @@ h5{
     
 }
 .design-selection{
- font-family:Zona Pro;
+ font-family: ZonaPro-Thin.otf;
   font-size:18px;
   text-align:center;
 }
 .design-archives{
-  font-family:Zona Pro;
+  font-family:ZonaPro-Thin.otf;
   font-size:18px;
   text-align:center;
 }
 .zen-resources{
-  font-family:Zona Pro;
+  font-family:ZonaPro-Thin.otf;
   font-size:18px;
  text-align:center;
 }
