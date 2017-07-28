@@ -58,7 +58,7 @@ h2{
   
 }
 h3{
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
+ font-family: 'Roboto', sans-serif;
   font-size: 25px;
   color: #146575;
   margin-left: 22%;
@@ -76,7 +76,7 @@ color: #276A70;
 }
 footer{
   text-align: center;
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
+  font-family: 'Roboto', sans-serif;
   font-size: 40px;
   position: center;
   
@@ -101,17 +101,17 @@ h5{
     
 }
 .design-selection{
- font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
+ font-family: 'Roboto', sans-serif;
   font-size:18px;
   text-align:center;
 }
 .design-archives{
-  font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
+  font-family: 'Roboto', sans-serif;
   font-size:18px;
   text-align:center;
 }
 .zen-resources{
-  font-family: url(../webfontkit-20170727-224716/zonapro-thin-webfont.woff);;
+ font-family: 'Roboto', sans-serif;
   font-size:18px;
  text-align:center;
 }
