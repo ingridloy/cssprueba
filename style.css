@@ -12,22 +12,22 @@
     font-weight: normal;
     font-style: normal;
 
+
+
 }
-
-
 h1{
   font-size:80px;
   letter-spacing: -2px;
    margin: 2em auto;
   margin-left: 35px;
- font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
+ font-family: 'Roboto', sans-serif;
   margin-top:10px;
     color: white
   
 }
 h2{
   font-size:40px;
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
+  font-family: 'Roboto', sans-serif;
   font-style: light;
   margin: 1em auto;
  margin-top: -130px;
@@ -41,7 +41,7 @@ h2{
   background-color: rgba(0,0,0,0.5);
   
   color: rgb(225,225,225);
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
+  font-family: 'Roboto', sans-serif;
   
   padding: 1px;
   
@@ -58,7 +58,7 @@ h2{
   
 }
 h3{
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
   font-size: 25px;
   color: #146575;
   margin-left: 22%;
@@ -76,7 +76,7 @@ color: #276A70;
 }
 footer{
   text-align: center;
-  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);;
+  font-family: url(../webfontkit-20170727-224716/zonapro-bold-webfont.woff);
   font-size: 40px;
   position: center;
   
